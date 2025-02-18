@@ -10,7 +10,11 @@ profile:
   image_circular: false # crops the image to make it circular
   more_info: |
     <p>cwkim [at] seas [dot] harvard [dot] edu</p>
-    <p>[Google Scholar](https://scholar.google.com/citations?user=JoCTDUgAAAAJ&hl=en)|[LinkedIn](https://www.linkedin.com/in/adamcwkim/)|[Resume(PDF)](/assets/pdf/Resume_New.pdf) </p>
+    <p>
+      <a href="https://scholar.google.com/citations?user=JoCTDUgAAAAJ&hl=en">Google Scholar</a> |
+      <a href="https://www.linkedin.com/in/adamcwkim/">LinkedIn</a> |
+      <a href="/assets/pdf/Resume_New.pdf">Resume(PDF)</a>
+    </p>
   
 
 selected_papers: false # includes a list of papers marked as "selected={true}"
