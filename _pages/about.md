@@ -8,7 +8,7 @@ profile:
   align: right
   image: prof_pic.jpg
   image_circular: false # crops the image to make it circular
-  more_info: >
+  more_info: |
     <p>cwkim [at] seas [dot] harvard [dot] edu</p>
     <p>[Google Scholar](https://scholar.google.com/citations?user=JoCTDUgAAAAJ&hl=en)|[LinkedIn](https://www.linkedin.com/in/adamcwkim/)|[Resume(PDF)](/assets/pdf/Resume_New.pdf) </p>
   
