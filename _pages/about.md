@@ -17,4 +17,10 @@ social: false # includes social icons at the bottom of the page
 
 ---
 
-Coming Soon...
+I am a postdoctoral fellow in Computer Science at Harvard University, advised by Professor Milind Tambe. I am broadly interested in AI for decision-making. I currently explore several key areas:
+- **ML-Accelerated Algorithms:** I explore how machine learning can be leveraged to efficiently solve complex optimization and control problems. I have developed ML-accelerated algorithms for mixed-integer optimization, continuous-time optimal control, and robust optimization.
+- **Fairness and Pluralistic Alignment:** I investigate how to design RL policies that fairly aggregate the diverse preferences of multiple stakeholders. In particular, I examine various aggregation rules and aim to make informed decisions regarding the best rule to adopt.
+- **Interface Between LLMs and Optimization:** I study how classical optimization techniques can enhance the performance of LLM agents, and conversely, how LLMs can be harnessed to improve optimization and broader decision-making processes.
+
+Before joining Harvard, I completed my PhD at the MIT Operations Research Center in 2024 under the guidance of Professor Dimitris Bertsimas. I also spent the summer of 2023 as a research intern in the Optimization and Machine Learning Group at Microsoft Research. I completed my undergraduate studies at Seoul National University.
+
