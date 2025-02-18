@@ -10,6 +10,7 @@ profile:
   image_circular: false # crops the image to make it circular
   more_info: >
     <p>cwkim [at] seas [dot] harvard [dot] edu</p>
+    <p>[Google Scholar](https://scholar.google.com/citations?user=JoCTDUgAAAAJ&hl=en)|[LinkedIn](https://www.linkedin.com/in/adamcwkim/)|[Resume(PDF)](/assets/pdf/Resume_New.pdf) </p>
   
 
 selected_papers: false # includes a list of papers marked as "selected={true}"
@@ -25,8 +26,6 @@ I am a postdoctoral fellow in Computer Science at Harvard University, advised by
 Before joining Harvard, I completed my PhD at the MIT Operations Research Center in 2024 under the guidance of Professor Dimitris Bertsimas. I also spent the summer of 2023 as a research intern in the Optimization and Machine Learning Group at Microsoft Research. I completed my undergraduate studies at Seoul National University.
 
 
-[Google Scholar](https://scholar.google.com/citations?user=JoCTDUgAAAAJ&hl=en)  
-[LinkedIn](https://www.linkedin.com/in/adamcwkim/)  
-[Resume PDF](/assets/pdf/Resume_New.pdf)
+
 
 
