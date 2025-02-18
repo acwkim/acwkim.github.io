@@ -173,7 +173,8 @@ kramdown:
 # Includes & excludes
 include: ["_pages", "_scripts"]
 exclude:
-  - _people
+  - _includes/profiles.liquid
+  - _pages/profiles.md
   - _posts/
   - _pages/blog.md
   - _news
