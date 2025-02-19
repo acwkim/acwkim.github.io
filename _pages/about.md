@@ -27,7 +27,7 @@ I am a postdoctoral fellow in Computer Science at Harvard University, advised by
 - **Fairness and Pluralistic Alignment:** I investigate how to design RL policies that fairly aggregate the diverse preferences of multiple stakeholders. In particular, I examine various aggregation rules and aim to make informed decisions regarding the best rule to adopt.
 - **Interface Between LLMs and Optimization:** I study how classical optimization techniques can enhance the performance of LLM agents, and conversely, how LLMs can be harnessed to improve optimization and broader decision-making processes.
 
-Before joining Harvard, I completed my PhD at the MIT Operations Research Center in 2024 under the guidance of Professor Dimitris Bertsimas. I also spent the summer of 2023 as a research intern in the Optimization and Machine Learning Group at Microsoft Research. I completed my undergraduate studies at Seoul National University.
+Before joining Harvard, I completed my PhD at the MIT Operations Research Center in 2024 under the guidance of Professor Dimitris Bertsimas. I also spent the summer of 2023 as a research intern in the Machine Learning and Optimization Group at Microsoft Research. I completed my undergraduate studies at Seoul National University.
 
 
 
