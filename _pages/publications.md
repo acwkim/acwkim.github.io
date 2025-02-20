@@ -1,7 +1,7 @@
 ---
 layout: page
-permalink: /publications/
-title: publications
+permalink: /Publications/
+title: Publications
 description: "*: Alphabetical or co-first author"
 nav: true
 nav_order: 2
