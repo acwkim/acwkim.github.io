@@ -13,7 +13,7 @@ profile:
     <p>
       <a href="https://scholar.google.com/citations?user=JoCTDUgAAAAJ&hl=en">Google Scholar</a> |
       <a href="https://www.linkedin.com/in/adamcwkim/">LinkedIn</a> |
-      <a href="/assets/pdf/Resume_New.pdf">Resume(PDF)</a>
+      <a href="/assets/pdf/Resume.pdf">Resume(PDF)</a>
     </p>
   
 
