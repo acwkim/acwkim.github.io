@@ -24,11 +24,11 @@ social: false # includes social icons at the bottom of the page
 
 I am a postdoctoral fellow in Computer Science at Harvard University, advised by Professor Milind Tambe. My research advances the scientific foundations of **end-to-end automated decision-making using machine learning**. My work spans multiple layers of the decision-making process, embedding machine learning throughout the pipeline from aligning with human intent to solving optimization problems and incorporating human feedback.
 
-- **AI Alignment and LLM-assisted Decision-Making**  
-  I develop methods to align learning-based systems with human objectives, particularly in settings where preferences are ambiguous, multi-faceted, or uncertain. My research spans both aligning LLMs with human values and leveraging LLMs for decision support:
-  1. **Multi-objective alignment:** Designing frameworks that balance multiple, often conflicting human objectives and enable personalized policy selection through human-in-the-loop methods.
+- **AI Alignment and LLMs for Decision-Making**  
+  I develop methods to align learning-based systems with human objectives, particularly in settings where preferences are ambiguous, multi-faceted, or uncertain. My research spans both aligning LLMs with human values and leveraging LLMs for decision-making:
+  1. **Multi-objective alignment:** Designing frameworks that balance multiple human objectives and enable personalized policy selection through human-in-the-loop methods.
   2. **Robust fine-tuning:** Developing robust algorithms for LLM fine-tuning that explicitly account for noise and uncertainty in human preference data.
-  3. **LLMs for decision support:** Exploring how LLMs can assist in complex decision-making tasks, such as designing reward functions for reinforcement learning from natural language.
+  3. **LLMs for decision-making:** Exploring how LLMs can assist in complex decision-making tasks, such as translating natural language descriptions into reward functions for reinforcement learning.
      
 - **Learning to Optimize**  
   I develop ML-accelerated algorithms that enable real-time solutions to complex optimization and control problems. My work spans mixed-integer optimization, two-stage robust optimization, and continuous-time optimal control, achieving orders-of-magnitude speed-ups while establishing theoretical optimality guarantees. 
