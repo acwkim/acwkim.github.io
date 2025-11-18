@@ -22,17 +22,16 @@ social: false # includes social icons at the bottom of the page
 
 ---
 
-I am a postdoctoral fellow in Computer Science at Harvard University, advised by Professor Milind Tambe. My research advances the scientific foundations of **end-to-end automated decision-making using machine learning**, focusing on building systems that are robust, scalable, and aligned with human values. My work spans multiple layers of the decision-making process, embedding machine learning throughout the pipeline from aligning with human intent to solving optimization problems and incorporating human feedback.
+I am a postdoctoral fellow in Computer Science at Harvard University, advised by Professor Milind Tambe. My research advances the scientific foundations of **end-to-end automated decision-making using machine learning**. My work spans multiple layers of the decision-making process, embedding machine learning throughout the pipeline from aligning with human intent to solving optimization problems and incorporating human feedback.
 
-My current work centers on two main areas.
 - **AI Alignment and LLM-assisted Decision-Making**  
   I develop methods to align learning-based systems with human objectives, particularly in settings where preferences are ambiguous, multi-faceted, or uncertain. My research spans both aligning LLMs with human values and leveraging LLMs for decision support:
   1. **Multi-objective alignment:** Designing frameworks that balance multiple, often conflicting human objectives and enable personalized policy selection through human-in-the-loop methods.
   2. **Robust fine-tuning:** Developing robust algorithms for LLM fine-tuning that explicitly account for noise and uncertainty in human preference data.
-  3. **LLMs for decision support:** Exploring how LLMs can assist in complex decision-making tasks, such as designing reward functions for reinforcement learning and modeling optimization problems from natural language.
+  3. **LLMs for decision support:** Exploring how LLMs can assist in complex decision-making tasks, such as designing reward functions for reinforcement learning from natural language.
      
 - **Learning to Optimize**  
-  I develop ML-accelerated algorithms that enable real-time solutions to complex optimization and control problems. My work spans mixed-integer optimization, two-stage robust optimization, and continuous-time optimal control, achieving orders-of-magnitude speed-ups while establishing theoretical optimality guarantees. I also develop scalable decision-focused learning approaches that directly optimize for solution quality rather than prediction accuracy.
+  I develop ML-accelerated algorithms that enable real-time solutions to complex optimization and control problems. My work spans mixed-integer optimization, two-stage robust optimization, and continuous-time optimal control, achieving orders-of-magnitude speed-ups while establishing theoretical optimality guarantees. 
 
 
 Before joining Harvard, I completed my PhD at the MIT Operations Research Center in 2024 under the guidance of Professor Dimitris Bertsimas. I also spent the summer of 2023 as a research intern in the Machine Learning and Optimization Group at Microsoft Research. I completed my undergraduate studies at Seoul National University.
