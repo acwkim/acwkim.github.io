@@ -728,6 +728,11 @@ footer.sticky-bottom {
     text-align: left;
   }
 
+  // Keep chronological grouping while hiding year headings and their dividers.
+  h2.publication-category ~ h2.bibliography {
+    display: none;
+  }
+
   ol.bibliography {
     list-style: none;
     padding: 0;
