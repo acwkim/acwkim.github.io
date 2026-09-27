@@ -20,7 +20,7 @@ selected_papers: false # includes a list of papers marked as "selected={true}"
 social: false # includes social icons at the bottom of the page
 ---
 
-I am a postdoctoral fellow in Computer Science at Harvard University, advised by Professor Milind Tambe. I work on **LLM alignment, post-training, and AI for decision-making**. My long-term goal is to build AI systems that learn what people want and make reliable, high-quality decisions on their behalf, even when preferences are diverse, noisy, or unclear.
+I am a postdoctoral fellow in Computer Science at Harvard University, advised by Professor Milind Tambe. I work on **AI alignment, LLM post-training, and AI for decision-making**. My long-term goal is to build AI systems that learn what people want and make reliable, high-quality decisions on their behalf, even when preferences are diverse, noisy, or unclear.
 
 Toward this goal, I have worked on:
 
