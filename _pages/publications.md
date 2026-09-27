@@ -11,6 +11,8 @@ nav_order: 2
 
 <div class="publications">
 
+<hr>
+
 <h2 class="publication-category">Preprints</h2>
 {% bibliography --group_by year --query @*[publication_type=preprint]* %}
 
